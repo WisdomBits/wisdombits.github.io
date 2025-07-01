@@ -30,7 +30,6 @@ Thanks to all the contributors and open-source creators whose work inspires the 
 Follow our journey, join discussions, and be a part of the growing learning community:
 
 - [GitHub Discussions](https://github.com/your-org/wisdom-bits/discussions)
-- [Twitter](https://twitter.com/wisdombits)
 
 <!--
 - [Discord](https://discord.gg/your-invite-link)
